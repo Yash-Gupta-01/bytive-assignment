@@ -127,7 +127,3 @@ This project is a simple Todo application built with Express.js and MongoDB. It 
 - mongoose: ^8.9.3
 - bcryptjs: ^2.4.3
 - jsonwebtoken: ^9.0.2
-
-## License
-
-This project is licensed under the ISC License.
